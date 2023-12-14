@@ -1,0 +1,59 @@
+{
+  "conversaciones": [
+    {
+      "mensaje": "Hola, ¿tienen este servicio disponible?",
+      "usuario": "Cliente",
+      "nombre": "María García",
+      "telefono": "555-123-4567"
+    },
+    {
+      "mensaje": "Sí, el servicio está disponible. ¿Para cuándo lo necesitas?",
+      "usuario": "Vendedor",
+      "nombre": "Carlos Rodríguez",
+      "telefono": "555-987-6543"
+    },
+    {
+      "mensaje": "Lo necesitaría para el próximo jueves. ¿Cuál es el costo?",
+      "usuario": "Cliente",
+      "nombre": "María García",
+      "telefono": "555-123-4567"
+    },
+    {
+      "mensaje": "El servicio tiene un costo de $80. ¿Te parece bien?",
+      "usuario": "Vendedor",
+      "nombre": "Carlos Rodríguez",
+      "telefono": "555-987-6543"
+    },
+    {
+      "mensaje": "Perfecto, procedamos con la reserva.",
+      "usuario": "Cliente",
+      "nombre": "María García",
+      "telefono": "555-123-4567"
+    },
+    {
+      "mensaje": "Hola, ¿puedo cancelar la reserva para el próximo jueves?",
+      "usuario": "Cliente",
+      "nombre": "María García",
+      "telefono": "555-123-4567"
+    },
+    {
+      "mensaje": "Sí, puedes cancelar la reserva. Por favor, avísanos con anticipación.",
+      "usuario": "Vendedor",
+      "nombre": "Carlos Rodríguez",
+      "telefono": "555-987-6543"
+    },
+    {
+      "mensaje": "Gracias por la información. ¿Cómo puedo proceder con la cancelación?",
+      "usuario": "Cliente",
+      "nombre": "María García",
+      "telefono": "555-123-4567"
+    },
+    {
+      "mensaje": "Puedes enviarnos un correo electrónico con los detalles y procesaremos la cancelación.",
+      "usuario": "Vendedor",
+      "nombre": "Carlos Rodríguez",
+      "telefono": "555-987-6543"
+    },
+    // ... más interacciones ...
+  ]
+}
